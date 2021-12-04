@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex {
+    display: flex;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.list-none {
+    list-style: none;
+}
+
+.mr-16 {
+    margin-right: 16px;
+}
+
+.j-as {
+    justify-content: space-around;
+}
+
+.j-b {
+    justify-content: space-between;
+}
+
+.pl-50 {
+    padding-left: 50px;
+}
+
+.pr-50 {
+    padding-right: 50px;
+}
+
+.py-16 {
+    padding: 1rem 0;
+}
+
+.pb-16 {}
